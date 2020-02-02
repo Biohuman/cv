@@ -1,0 +1,12 @@
+body {
+    color: lightgreen;
+    background-image: url("https://pbs.twimg.com/media/EPvzmdaXkAAQOrb?format=jpg&name=small");
+    background-size: 100%;
+    }
+          
+     hr {
+        border-style: ridged none none;
+        border-color: forestgreen;
+        border-width: 20px;
+        width: 75%;
+    }
